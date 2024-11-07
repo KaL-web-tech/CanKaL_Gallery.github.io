@@ -9,11 +9,18 @@
 
   header h1{
     margin: 0 auto;
+    margin-top: 30px;
     text-align: center;
     color: rgb(192, 54, 25);
     width: 100%;
     font-size: 40px;
   }
+
+
+.container {
+    padding: 20px;
+    margin:0 auto;
+}
 
 
 .gallery {

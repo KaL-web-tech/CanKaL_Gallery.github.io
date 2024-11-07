@@ -58,6 +58,46 @@
     grid-area: F;
 }
 
+.gallery .photoG {
+    grid-area: G;
+}
+
+.gallery .photoH {
+    grid-area: H;
+}
+
+.gallery .photoI {
+    grid-area: I;
+}
+
+.gallery .photoJ {
+    grid-area: J;
+}
+
+.gallery .photoK {
+    grid-area: K;
+}
+
+.gallery .photoL {
+    grid-area: L;
+}
+
+.gallery .photoM {
+    grid-area: M;
+}
+
+.gallery .photoN {
+    grid-area: N;
+}
+
+.gallery .photoO {
+    grid-area: O;
+}
+
+.gallery .photoP {
+    grid-area: P;
+}
+
 .gallery img {
     width: 100%;
     height: 100%;
